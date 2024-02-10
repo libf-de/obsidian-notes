@@ -1,2 +1,0 @@
-- Menge an Objekt-Kollaborationen beschrieben durch eine Menge an Rollen-Typen
-- eine Beschränkungsspezifikation für Klassen und Objektzusammenarbeit
