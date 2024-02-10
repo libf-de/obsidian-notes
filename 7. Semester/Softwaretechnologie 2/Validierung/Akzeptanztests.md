@@ -1,0 +1,3 @@
+- Akzeptanztestcases sind Teil der SRS, werden vom Kunden geprüft
+- sind Systemtests, werden nach Deployment ausgeführt; testen das ganze System unter Last; testen ebenso nicht-funktionale Eigenschaften
+- 

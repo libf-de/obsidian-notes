@@ -1,0 +1,6 @@
+- Places stellen Bedingungen, States oder Predicates dar
+- Transitions stellen das Feuern von Events dar:
+	- hat eine Transition einen Eingangs-Place feuert das Event sofort wenn dort ein Token ankommt
+	- hat eine Transition mehrere Eingangs-Places feuert das Event sobald alle Eingänge einen Token haben
+- Eine Transition hat Ein-/Ausgangs-Places (Vor-/Nachbedingungen)
+	- Vorhandensein eines Tokens wird als wahre Bedingung gesehen

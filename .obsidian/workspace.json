@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "7653296c57a3e7a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "821ea8a0bed795a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddf67d80c4237327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Semester/Softwaretechnologie 2/Modelle/Layering Graphs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a4fe5a22d554071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Semester/Softwaretechnologie 2/Software Product Lines/Grundlagen SPL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb0bf7362406e9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Semester/Softwaretechnologie 2/Modelle/Grundlegende Graph-Klassen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "594b0dcb2950caf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Semester/Softwaretechnologie 2/Validierung/Defensive Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "511666233d1bc2c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Semester/Softwaretechnologie 2/Validierung/Validierung mit Inspections und Reviews.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f07a32003a7536ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Semester/Softwaretechnologie 2/Validierung/Quality Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce479f5a8f453806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Semester/Softwaretechnologie 2/Requirements Analysis/Anforderungsanalyse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f63e02c8fb18c1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Semester/Softwaretechnologie 2/Petrinetze/Patterns in Petrinetzen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41b08b04252b1629",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ca598ee6b5165c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3e596a4624a04dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce59f7d1359ff3e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "überla",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e74e14475ebf6f55",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "731be76f14b245ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62bdfddc43943da1",
+    "type": "split",
+    "children": [
+      {
+        "id": "42e08a176b52aec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8db0dbea2a6494b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7. Semester/Softwaretechnologie 2/Software Product Lines/Grundlagen SPL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5f5d36ba3534e45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7. Semester/Softwaretechnologie 2/Software Product Lines/Grundlagen SPL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7b62f7b5fe41495",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "942876784c280dad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7. Semester/Softwaretechnologie 2/Software Product Lines/Grundlagen SPL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Neuen Canvas erstellen": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show log": false
+    }
+  },
+  "active": "5a4fe5a22d554071",
+  "lastOpenFiles": [
+    "7. Semester/Softwaretechnologie 2/Model-driven Software Development/Domain Specific Languages.md",
+    "7. Semester/Softwaretechnologie 2/Model-driven Software Development/Model-driven Architecture.md",
+    "7. Semester/Softwaretechnologie 2/Model-driven Software Development/Meta models.md",
+    "7. Semester/Softwaretechnologie 2/Model-driven Software Development/images/Pasted image 20240210110929.png",
+    "7. Semester/Softwaretechnologie 2/Modelle/Grundlegende Graph-Klassen.md",
+    "7. Semester/Softwaretechnologie 2/Model-driven Software Development/images/Pasted image 20240210110312.png",
+    "7. Semester/Softwaretechnologie 2/Model-driven Software Development/images",
+    "7. Semester/Softwaretechnologie 2/Software Product Lines/Variabilität.md",
+    "7. Semester/Softwaretechnologie 2/Model-driven Software Development",
+    "7. Semester/Softwaretechnologie 2/Software Product Lines/Feature Modelling.md",
+    "7. Semester/Softwaretechnologie 2/Software Product Lines/images/Pasted image 20240210101743.png",
+    "7. Semester/Softwaretechnologie 2/Software Product Lines/Grundlagen SPL.md",
+    "7. Semester/Softwaretechnologie 2/Software Product Lines/images/Pasted image 20240210100608.png",
+    "7. Semester/Softwaretechnologie 2/Software Product Lines/images",
+    "7. Semester/Softwaretechnologie 2/Modelle/Layering Graphs.md",
+    "7. Semester/Softwaretechnologie 2/Software Product Lines",
+    "7. Semester.tar.lz4",
+    "Hyperedge.md",
+    "images/Pasted image 20240207135753.png",
+    "7. Semester/Softwaretechnologie 2/Modelle/Graph-Logik-Isomorphismus.md",
+    "7. Semester/Softwaretechnologie 2/Modelle/images/Pasted image 20240207135610.png",
+    "7. Semester/Softwaretechnologie 2/Zusammenfassung.md",
+    "7. Semester/Softwaretechnologie 2/Petrinetze/Patterns in Petrinetzen.md",
+    "7. Semester/Softwaretechnologie 2/Modelle/images/Pasted image 20240207133131.png",
+    "7. Semester/Softwaretechnologie 2/Modelle/images/Pasted image 20240207132926.png",
+    "7. Semester/Softwaretechnologie 2/Requirements Analysis/Requirements Analysis.md",
+    "7. Semester/Softwaretechnologie 2/Validierung/Validierung mit Inspections und Reviews.md",
+    "7. Semester/Softwaretechnologie 2/Petrinetze/Grundlagen Petrinetze.md",
+    "7. Semester/Softwaretechnologie 2/Validierung/Tests.md",
+    "7. Semester/Softwaretechnologie 2/Validierung/Regressionstests.md",
+    "7. Semester/Softwaretechnologie 2/Validierung/Quality Management.md",
+    "7. Semester/Softwaretechnologie 2/Validierung/Akzeptanztests.md",
+    "7. Semester/Softwaretechnologie 2/Validierung/Defensive Programming.md",
+    "7. Semester/Softwaretechnologie 2/Modelle/images/Pasted image 20240207132617.png",
+    "7. Semester/Softwaretechnologie 2/Modelle/images",
+    "7. Semester/Softwaretechnologie 2/Modelle",
+    "7. Semester/Softwaretechnologie 2/Validierung/Validierung.md",
+    "7. Semester/Softwaretechnologie 2/Entwufsmethoden/Architekturstile.md",
+    "7. Semester/Softwaretechnologie 2/Requirements Analysis/Anforderungsanalyse.md",
+    "7. Semester/Softwaretechnologie 2/Petrinetze/Verhaltenseigenschaften.md",
+    "7. Semester/Softwaretechnologie 2/Petrinetze/Colored Petri Nets (CPN).md",
+    "7. Semester/Softwaretechnologie 2/Unbenannt.md",
+    "7. Semester/Softwaretechnologie 2/Validierung/images/Pasted image 20240207115634.png",
+    "Unbenannt.canvas",
+    "7. Semester/Softwaretechnologie 2/Entwufsmethoden/images",
+    "7. Semester/Softwaretechnologie 2/Entwufsmethoden",
+    "7. Semester/Softwaretechnologie 2/Validierung/images",
+    "6. Semester/Unbenannt.canvas"
+  ]
+}

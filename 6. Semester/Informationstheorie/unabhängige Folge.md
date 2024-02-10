@@ -1,0 +1,1 @@
+Eine Folge $(X_{k})_{k \in \mathbb{N}}$ heißt unabhängig, falls $\forall n \in \mathbb{N}$ die Komponenten des diskreten Zufallsvektors $(X_{1},X_{2},…,X_{n})$ (stochastisch) unabhängig sind

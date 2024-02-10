@@ -1,0 +1,2 @@
+- extract key points from text
+- Page 7 -> Table with figures (C-Task2)
