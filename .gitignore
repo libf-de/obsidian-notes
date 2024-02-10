@@ -1,3 +1,4 @@
 .DS_Store
 LIVESYNC_*
 .obsidian/plugins/obsidian-livesync/
+.obsidian/workspace.json
