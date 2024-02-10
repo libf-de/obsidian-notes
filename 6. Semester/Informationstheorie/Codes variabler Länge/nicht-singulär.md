@@ -1,1 +1,0 @@
-falls Zuordnung $c(i) \Rightarrow i, \; \forall i \in \mathcal{X}$ eindeutig ist, d.h. die (Codier-)Funktion $c\;:\;\mathcal{X} \rightarrow \mathcal{C}$ bijektiv ist.
