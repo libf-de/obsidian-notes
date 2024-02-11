@@ -1,1 +1,0 @@
-ähnlich [[Transformational Design]]

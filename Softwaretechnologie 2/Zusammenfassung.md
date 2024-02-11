@@ -40,10 +40,10 @@
 
 ## Entwurfsmethoden
 - Entwurfsmethoden geben Architekturstile vor
-- [[Funktionales Design|Funktionsorientierter Entwurf]] -> [[Architekturstile#Call-Based Architectural Style]]
-- [[Aktionsorientiertes Design|Aktionsorientierter Entwurf]] -> **Tom DeMarco SA/SD** -> **DFDs, Data Dictionary**
+- [[Funktionsorientierter Entwurf|Funktionsorientierter Entwurf]] -> [[Architekturstile#Call-Based Architectural Style]]
+- [[Aktionsorientierter Entwurf|Aktionsorientierter Entwurf]] -> **Tom DeMarco SA/SD** -> **DFDs, Data Dictionary**
 - **ECA-orientierter Entwurf** -> **Rule-based Architectural Style**
-- [[Datenorientiertes Design|Datenorientierter Entwurf]] -> **Repository, Blackboard, ...**
+- [[Datenorientierter Entwurf|Datenorientierter Entwurf]] -> **Repository, Blackboard, ...**
 - **Model-driven Software Development**
 	- [[Meta models|Metamodellierung, Meta-Pyramide]]
 	- [[Model-driven Architecture]] -> CIM, PIM, PSM, Code -> Modelltransformationen
