@@ -70,3 +70,10 @@ Zusätzlich kann `buffer` ein Bound haben (1…n)
 Binäre oder Zählende Semaphore bieten `lock` und `free`-Operationen als Transitions an
 Unterschieden durch Kapazität/Bound des Semaphore-Place
 ![[semaphore.gif]]
+
+## Flashcards
+
+Wie sieht eine Quelle und eine Senke in einem Petrinetz aus? #flashcard #petrinetze
+Quelle - generiert Tokens - Transition ohne eingehende Kante
+Senke - zerstört Tokens - Transition ohne ausgehende Kante
+- - -

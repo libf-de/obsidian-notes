@@ -83,3 +83,13 @@ wobei $n$ das Weight der eingehenden Arcs ist.)
 
 **Automaten**
 - *sequentiell*, ein globaler State ("ein Token"), können nur *zentral* "geschalten" werden
+
+## Flashcards
+
+Welchen Vorteil bietet ein Petrinetz gegenüber z.B. einem Automaten? #flashcard #petrinetze
+In Petrinetzen sind Parallelismus und Synchronisierung modellierbar, während ein Automat sequenziell arbeitet und einen globalen Zustand hat.
+- - -
+Was passiert wenn in einem PN eine Transition feuert? #flashcard #petrinetze
+Eine Transition kann dann feuern, wenn in *allen* eingehenden Places für das jeweilige Kantengewicht genügend Token vorhanden sind.
+Feuert die Transition, werden entsprechend des jeweiligen eingehenden Kantengewichts Token aus den eingehenden Places entfernt und entsprechend der ausgehenden Kantengewichte Tokens in die ausgehenden Places platziert.
+- - -

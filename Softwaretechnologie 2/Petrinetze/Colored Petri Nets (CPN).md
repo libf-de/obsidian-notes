@@ -45,3 +45,16 @@ CPNs können als hierarchischer/reduzibler Graph angeordnet werden
 Hyperedges und Regionen in PN können verfeinert werden:
 ![[Pasted image 20231207124225.png]]
 
+## Flashcards
+
+Was haben CPNs was PNs nicht haben? #flashcard #petrinetze 
+- typisierte Plätze und Kanten (-> gefärbt)
+- Places und Transitionen können verfeinert werden; CPN = reduzibler Graph:
+- Pages = Subnetze: hat Ports (Ein-/Ausgehende Transitionen/Places)
+	- kann hierarchisch aufgebaut werden
+	- Transition Page (Ports = Transitionen), Place Page (Ports = Places), Region Pages
+- - -
+Wofür werden CPNs eingesetzt? #flashcard #petrinetze 
+- Modellierung von parallelen Systemen, da modular und reduzierbar
+- Bewesen von Liveness, Fairness, k-boundedness, Deadlock/-freiehit
+- - -

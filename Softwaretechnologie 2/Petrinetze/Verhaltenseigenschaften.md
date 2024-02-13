@@ -87,3 +87,45 @@ Alternativ: $A^T x = \Delta M$,  $\Delta M = M_d - M_0$ und $x…n \times 1$-Spa
 - Baue den Erreichbarkeits-Graphen und überprüfe ob die Start-Markierung $M_0$ von allen erreichbaren Konfigurationen erreichbar ist.
 
 **Sinn**: Überprüfen ob zwei Komponenten zusammenpassen ([[Grundlagen Petrinetze]] -> Anwendung)
+
+## Flashcards
+
+Wie ist der Reachability-Graph eines PNs aufgebaut? #flashcard #petrinetze 
+Beginne mit Start-Marking $M_0 = (0\;1\;0\;1\;0\;0)$, in den Klammern steht die Anzahl der Tokens in den Places $M_0 = (S_0\;S_1\;...)$. Zeichne dann alle möglichen Transitions (und ihren Namen) ein und in welchem Marking sie resultieren. Führe den Graph fort, bis wieder $M_0$ erreicht wird. Für _Common Subtree Elimination_ führe gleiche Markings zusammen (Transitions entsprechend umverbinden).
+- - -
+Was bedeutet Boundedness? Wozu gut? #flashcard #petrinetze 
+Ein PN ist (k-)bounded, wenn jeder Place auf k Token größenbeschränkt ist.
+Ein PN gilt als sicher, wenn es 1-bounded ist.
+Die Boundedness kann verwendet werden, um den Resourcenverbauch eines Systems dazustellen und zu beweisen.
+- - -
+Wann ist ein Petrinetz live? #flashcard #petrinetze 
+Ein PN ist live wenn, egal welche Marking von M0 aus erreicht wurde, alle Transitionen live sind bzw. wenn M0 lebendig ist.
+- - -
+Wann ist eine Transition live? #flashcard #petrinetze 
+- L0-live (tot) - t nie feuerbar
+- L1-live (potentiell feuerbar) - t von M0 aus mind. 1x feuerbar
+- L2-live (k-feuerbar) - t von M0 aus k-mal feuerbar
+- L3-live (∞-feuerbar) - t von M0 aus ∞-mal feuerbar
+- L4-live - t mind. L1-live für alle (auch unerreichbare) Markings
+- - -
+Wann ist eine Marking live? #flashcard #petrinetze 
+Marking ist live, wenn keine erreichbare Marking tot ist bzw. alle Transitionen lebendig sind.
+- - -
+Was ist eine Inzidenzmatrix? #flashcard #petrinetze 
+Ein PN kann in Matrixform als Inzidenzmatrix dargestellt werden.
+Zeilen = Transitionen, Spalten = Places
+Die Tabelleneinträge entsprechen der Änderung der Anzahl an Tokens eines Places für eine ausgehende Kante (ZUR Transition = minus Kantengewicht) bzw. eingehende Kante (VON Transition = plus Kantengewicht). Gibt es zwischen einem Place und einer Transition keine Kante => 0
+- - -
+Was kann man mit einer Inzidenzmatrix machen? #flashcard #petrinetze 
+Markings berechnen: NeueMarkingVec = AlteMarkingVec + InzidenzMatrix^T * Feuervektor
+Marking-Vektoren = Anzahl an Tokens in Places p1...px (von oben nach unten)
+Feuervektor = Wie oft feuern Transitionen t1...ty (von oben nach unten)
+^T = Zeilen und Spalten tauschen / an Hauptdiagonale spiegeln
+- - -
+Welche Invarianten gibt es hierbei und was bedeuten sie? #flashcard #petrinetze #todo
+A…Inzidenzmatrix, ^T…an Hauptdiagonale spiegeln, x/y…Feuervektor
+
+T(ransition)-Invariante - A^T * x = 0 - Feuersequenz, die Marking in sich selbst transformiert
+
+S(tate)-Invariante - A * y = 0
+- - -
