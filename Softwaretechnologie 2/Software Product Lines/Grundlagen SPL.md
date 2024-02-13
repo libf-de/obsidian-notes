@@ -20,8 +20,8 @@
 ## Software Product Line Engineering
 ![[Pasted image 20240210100608.png]]
 
-- Problem Space -> enthält alle *anforderung*sbezogenen Artefakte
-- Solution Space -> enthält alle *implementation*sbezogenen Artefakte
+- Problem Space -> enthält alle *anforderung*sbezogenen Artefakte (Kunde)
+- Solution Space -> enthält alle *implementation*sbezogenen Artefakte ("ich")
 - Domain Engineering -> domainbezogene Tätigkeiten
 - Application Engineering -> Tätigkeiten bezogen auf ein konkretes individuelles Produkt
 
