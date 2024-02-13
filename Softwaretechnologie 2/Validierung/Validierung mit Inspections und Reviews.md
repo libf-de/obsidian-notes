@@ -25,3 +25,19 @@ regelmäßig Rollen abwechseln
 ## Audits
 - formellste Form
 - Probleme im Gesamtprojekt sollen aufgedeckt werden (finanzielle Probleme, Planung, Rechtmäßigkeit,…)
+
+
+## Flashcards
+
+Welche Formen des Reviews gibt es? #flashcard #validation 
+- Checklisten (zur Fortschritt-Kontrolle)
+- Interne Reviews
+- Externe Reviews (externes Unternehmen macht Review)
+- Audit (formellerer, profess. Review, inkl. Budgets, Planung, Gesetzestreue + Protokoll)
+- - -
+Wie kann ein interner Review aussehen? #flashcard #validation 
+- Inspektion: Kollege liest Code gegen
+- Walkthrough: Code mit Kollege durchgehen
+- Review: systematisches Durchgehen aller Artefakte einer anderen Gruppe
+- Pair Programming: permantentes Zusammenarbeiten in Zweiergruppen
+- - -

@@ -15,3 +15,10 @@ post P2: salary = salary@pre + 100 &&
 		company.budget = company.budget@pre - 100
 ```
 - Epsilon (->Eclipse)
+
+## Flashcards
+
+Was ist defensives Programmieren? #flashcard #validation 
+- Fehler von Anfang an vermeiden durch Assertions im Code -> Stop bei Fehler
+- Precondition, Invariant und Postcondition Checks => Contract Layer
+- - -

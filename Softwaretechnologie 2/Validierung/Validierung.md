@@ -18,6 +18,17 @@ Beweis dass die Implementierung der Spezifikation entspricht, mittels formalem/m
 - Mock-Klassen simulieren Class-Under-Test, verwirklichen ihr Lebenszyklus-Protokoll
 - Test tools helfen Anwendungstests zu automatisieren
 
+## Flashcards
+
+Formen von Qualitätsmanagement + Beispiele? #flashcard #validation
+Konstruktive QA -> Vermeidung von Fehlern
+=> Lasten-/Pflichtenheft, V-Model, Test-Driven-Dev., Defensive Programming
+
+Analytische QA -> Finden von Fehlern
+=> Debugging, Code-Inspections, Reviews, Audits, dynamische/statische Tests
+- - - 
+
+
 
 ```ccard
 type: folder_brief_live

@@ -36,3 +36,14 @@ schützt den Hersteller vor:
 
 ## Projektmanagementplanung
 Planung, Stellenbesetzung, Organisation, Leitung, Verwaltung
+
+## Flashcards
+Was ist das Ziel der Machbarkeitsstudie? #flashcard #requirements
+Vor Projektbeginn Durchführbarkeit prüfen um zu entscheiden ob Projekt interessant und realisierbar ist.
+- - -
+Was sind die Ergebnisse der Machbarkeitsstudie? #flashcard #requirements 
+- Lastenheft (grobe Anforderungen, Ziele des Projekts aus Sicht des Kunden, Deadlines)
+- Kostenanalyse (Kostenanalyse + -vorhersage)
+- Risikoanalyse (falsche Deadlines; Zielkonflikte, Kosten unterschätzt)
+- Projektplan (Planung, Personal, Organisation, Führung, Kontrolle)
+- - -

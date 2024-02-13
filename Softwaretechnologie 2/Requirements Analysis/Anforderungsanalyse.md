@@ -30,3 +30,9 @@ Anforderungsspezifikation beginnt meist als Text (informell) und wird Schritt f�
 - Vokabular mit Zusammenhängen (graph-based domain model)
 - Vokabular mit Einschränkungen (Ontologie; logische Relationen)
 
+## Flashcards
+Was sind die Hauptphasen der Anforderungsanalyse? #flashcard #requirements 
+- Umgebungsanalyse (Domänenmodell, Problem-/Lösungsmodell, Stakeholder)
+- Anforderungsspezifikation (Nicht-/Funktionale Anforderungen, GUI-Prototyp) in Text!
+- Systemanalyse (Top-Level-Architektur, Kontextmodell, Akzeptanzkriterien/-tests)
+- - -

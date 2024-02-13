@@ -102,3 +102,14 @@ Anforderung mittels Story-Cards verwalten (enthalten eine Kundenanforderung in K
 
 ### Requirement Management System (Professionell)
 Anforderungen in Datenbank (unternehmensweit) verwalten; Kunde kann Datenbank einsehen und bearbeiten/priorisieren
+
+## Flashcards
+Was sind die Schritte der ZOPP? #flashcard #requirements
+1. Stakeholderanalyse (Nutzer des Systems + ihre Ziele)
+2. Hierarchische Problemanalyse (IST) (negativ formuliert, Hauptproblem + Gründe finden)
+3. Hierarchische Zielanalyse (SOLL) (positiv, Haupt/Unterziele, Abhängigk., priorisieren!)
+4. Hierarchische funktionale Anforderungsanalyse (Funktionaler Anforderungsbaum)
+5. Nicht-funktionale Anforderungsanalyse
+6. Erfolgskriteriumsanalyse (was muss für Erfolg des Projekts passieren)
+7. Hierarchische Erstellung von Akzeptanztests
+- - -

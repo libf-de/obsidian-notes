@@ -38,4 +38,39 @@ Teilt Team auf in Programmierer und Tester - Programmierer darf nicht testen (un
 ## Debugger
 - Breakpoints, Watchpoints, ....
 - Dynamic Display Debugger (Frontend für GDB, ...)
-- 
+
+## Flashcards
+
+Welche Testarten gibt es und worin unterscheiden sie sich? #flashcard #validation 
+statische Tests - Code nicht ausführen, nur anschauen
+- Daten-/Kontrollflussanalyse
+- symbolische Ausführung, abstrakte Interpretation
+
+dynamische Tests - Code ausführen, schauen was passiert
+- Simulation mit konkreten Werten
+- Funktionale Tests (Unit-, Integrations-, Akzeptanztests)
+- Strukturorientierte Tests (Dead code finden)
+- andere: Fault Injection, Regressionstests (Update ohne negative Auswirkungen?)
+- - -
+Was sind Probleme bei Tests? #flashcard #validation 
+- Zeitdruck (Tests müssen geschrieben werden, bringen keine Funktion)
+- Betriebsblindheit (man findet eigene Fehler nicht -> separate Tester nötig)
+- Was überhaupt testen?
+- Tests zeigen nur Vorhandensein von Fehlern, niemals Abwesenheit von Fehlern!
+- - -
+Was sind Methoden um Probleme bei Tests zu beheben? #flashcard #validation 
+- Cleanroom - Unterteilung in Programmierer und Tester
+- Test-driven-Development - Tests schreiben, testen, Code schreiben, testen, refactor
+- - -
+Wie funktioniert ein Debugger? #flashcard #validation 
+- führt Programm aus, kann Ablauf stoppen und interne Daten anzeigen
+- Breakpoints (bei Erreichen anhalten)
+- Watchpoints (bei Variablenänderung anhalten)
+- State Monitoring/Change (aktive Variablen-Werte sehen/verändern)
+- - -
+Was sind Regressionstests? #flashcard #validation 
+- Testfälle werden weiterentwickelt, aber auch alte Tests werden weiter verwendet
+- Sicherstellen, dass neuer Code keine negativen Auswirkungen auf alten Code hat
+- Tests kontinuierlich ausführen => ohne Regressionstests keine Qualität
+- Für GUI: Capture & Replay-Tools (Makros aufzeichnen + abspielen)
+- - -
