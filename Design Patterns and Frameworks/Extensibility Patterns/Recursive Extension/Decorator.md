@@ -2,7 +2,7 @@
 Ähnlich wie [[Composite]] in der Hinsicht, dass von einer abstrakten Klasse vererbt wird 
 (`mimiced class` => Component, `mimicing class` => Decorator)
 
-## Aufbau
+## Aufbau 
 ![[Pasted image 20231124180616.png]]
 - **Component**: deklariert _gem. Interface_ für Wrapper und gewrappte Objekte
 - **Concrete Component**: Klasse von Objekten die gewrappt wird, definiert _grundlegende Verhaltensweisen_, die von Decorators verändert werden können
