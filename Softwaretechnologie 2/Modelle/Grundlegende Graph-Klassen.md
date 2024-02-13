@@ -138,3 +138,14 @@ schlimmstmögliche Struktur
 -> UML Klassendiagramme
 ![[Pasted image 20240207133131.png]]
 
+## Flashcards
+
+Welche grundlegenden Graphen gibt es + wichtigste Eigenschaften? #flashcard #graphen
+- Liste/Kette - 1 Quelle, 1 Senke, alle anderen 1 fan-in, 1 fan-out -> Priorisier./Reihenfolge
+- Bäume - 1 Quelle, viele Senken, alle haben fan-in <= 1 -> Hierarchie
+- DAG - viele Quellen & Senken, fan-in/-out beliebig, Schichten, keine Zyklen (UML inheritance DAGs, Compiler)
+- Link Tree - primärer Skeleton Tree, sekundärer overlay graph -> konzeptuelle Hierarchie mit möglichen Referenzen (HTML, XML)
+- Reduzibler Graph - Zyklen auf einer Ebene/zw. Geschwistern möglich, kann auf einen Knoten reduziert werden (UML Statecharts, PNs, OO Vererbungshierarchie)
+- Layerable Graph - wie reduzibler Graph, kann nicht auf 1 Knoten reduziert werden, aber geschichtet werden
+- Wild unstructured Graph - nicht schichtbar, keine Abstraktion mgl. (UML Klassendiagramme)
+- - -
