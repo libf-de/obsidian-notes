@@ -6,3 +6,6 @@
 
 **Verwendung** wenn Fokus auf Struktur der Daten liegt.
 **Architekturstile**: [[Architekturstile#Regular Batch-/ETL Processing|Regular Batch Processing]], [[Architekturstile#Repository-Systeme|Repository]] oder [[Architekturstile#Blackboard-Stil|Blackboard]]
+
+## Flashcards
+

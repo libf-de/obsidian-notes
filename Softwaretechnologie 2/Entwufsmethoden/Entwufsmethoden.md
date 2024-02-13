@@ -5,15 +5,28 @@
 
 ## Liste an Methoden
 - [[Funktionsorientierter Entwurf]] - Fokus auf Funktionen
-- [[Aktionsorientierter Entwurf]]
+- [[Aktionsorientierter Entwurf]] - Fokus auf Aktionen<->State
 - [[Datenorientierter Entwurf]] - Fokus auf Datenstruktur
-- [[Komponentenorientiertes Design]]
-- [[Objektorientierter Entwurf]]
+- [[Objektorientierter Entwurf]] - Fokus auf reale Objekte
 - [[Transformationaler Entwurf]]
 - [[Generativer Entwurf]]
+- [[Formale Methoden]]
+- [[Aspektorientierter Entwurf]]
+
+## Flashcards
+
+Welche Entwurfsmethoden gibt es? #flashcard #entwurfsmethoden
+- Funktionsorientiert
+- Aktionsorientiert
+- Datenorientiert
+- Objektorientiert
+Kombinierbar damit:
+- Transformational
+- Generativ
 - Formale Methoden
-	- Refinement-based Design
-- [[Aspektorientiertes Design]]
+- Aspektorientiert
+- - -
+
 ```ccard
 type: folder_brief_live
 ```
