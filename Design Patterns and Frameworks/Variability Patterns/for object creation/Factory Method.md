@@ -68,3 +68,6 @@ void createProduct(String className) {
 
 ## Beziehungen
 Eine FactoryMethod ist eine HookMethod, verwendet von einer [[Template Method]], die ein Product zurückgibt.
+
+## Role-based Design
+![[Design Patterns als Role Models#Factory Method]]

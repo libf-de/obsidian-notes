@@ -9,3 +9,6 @@ bildet die Basis für…
 - [[Bridge]]
 - [[Visitor]]
 - u.a.
+
+## Role-based Design
+![[Design Patterns als Role Models#Dimensional Class Hierarchies]]

@@ -13,6 +13,4 @@
 - **IntFigObserver.Subject**: Subjekt eines Observer-Patterns, zur Kommunikation zwischen Abb.
 - **FigureChain.Successor**: Nachfolger einer fortlaufenden Liste (Kette) von Abbildungen
 
-> [!information]
-> Weiter auf Seite 15 / 10-role-based-design
-
+=> [[Role constraints]]

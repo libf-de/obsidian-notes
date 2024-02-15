@@ -23,3 +23,7 @@ Es gibt kein "Kernobjekt", alle erben rekursiv von einer Oberklasse; alle wissen
 - wenn sich Handler und ihre Reihenfolge zur Laufzeit ändern sollen
 
 [auf refactoring.guru](https://refactoring.guru/design-patterns/chain-of-responsibility)
+
+---
+## Role-based Design
+![[Design Patterns als Role Models#Chain of Responsibility]]

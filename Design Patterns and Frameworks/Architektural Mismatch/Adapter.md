@@ -53,3 +53,6 @@ hole.fits(SquarePegAdapter(SquarePeg(5))) //true
 - [[Facade]] definiert neues Interface für existierende Objekte, kann mit ganzem Subsystem an Objekten arbeiten
   *Adapter* versucht existierende Interfaces nutzbar zu machen, arbeitet idR. mit nur 1 Objekt
 - [[Bridge]], [[Strategy]], [[State]] haben ähnliche Strukturen ([[Aggregation und Composition|Composition]]), lösen jedoch unterschiedliche Probleme (Pattern strukturiert nicht nur Code, sondern kommuniziert Problem welches gelöst werden soll mit anderen Programmierern)
+
+## Role-based Design
+![[Design Patterns als Role Models#Adapter]]

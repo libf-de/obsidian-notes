@@ -58,3 +58,6 @@ fun ConfiguratorUsage() { // Behavior can be altered at runtime
   z.B. da dies durch `final` unterbunden ist.
 
 [auf refactoring.guru](https://refactoring.guru/design-patterns/decorator)
+
+## Role-based Design
+![[Design Patterns als Role Models#Decorator]]

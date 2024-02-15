@@ -18,3 +18,7 @@
 - Kernelement der funktionalen Programmierung (da Rekursion)
 
 [auf refactoring.guru](https://refactoring.guru/design-patterns/composite)
+
+---
+## Role-based Design
+![[Design Patterns als Role Models#Composite]]

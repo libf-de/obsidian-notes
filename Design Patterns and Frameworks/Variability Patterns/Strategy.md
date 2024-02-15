@@ -8,3 +8,6 @@
 ![[Pasted image 20231109132918.png]]
 Client => Template Class
 Strategy Class => Hook Class
+
+## Role-based Design
+![[Design Patterns als Role Models#Strategy]]

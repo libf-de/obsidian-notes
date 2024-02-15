@@ -57,3 +57,6 @@ open class Component(dialog: Mediator) { //<-- Components kennen nur Mediator
 - [[Observer]] und *Mediator* sind sehr ähnlich
 	- Mediator möchte gegenseitige Abhängigkeiten in einem System eliminieren
 	- Observer möchte 1-Weg-Kommunikation zwischen Objekten ermöglichen, wobei manche Objekte anderen untergeordnet sind.
+
+## Role-based Design
+![[Design Patterns als Role Models#Mediator]]

@@ -16,3 +16,6 @@ Die Template Class ist Basis für...
 - [[State]]
 - [[Strategy]]
 - [[Visitor]]
+
+## Role-based Design
+![[Design Patterns als Role Models#Template Class]]

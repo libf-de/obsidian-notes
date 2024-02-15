@@ -27,3 +27,8 @@
 ## Variante Push-Observer
 ![[Pasted image 20231126141548.png]]
 ![[Pasted image 20231126141609.png]]
+
+---
+
+## Role-based Design
+![[Design Patterns als Role Models#Observer]]

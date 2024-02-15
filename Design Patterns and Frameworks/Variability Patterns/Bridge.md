@@ -20,6 +20,9 @@ Es existiert bereits eine `Shape`-Klasse mit zwei Subklassen `Circle` und `Squar
 ![[Pasted image 20231109134451.png]]
 [Bridge auf refactoring.guru](https://refactoring.guru/design-patterns/bridge)
 
+## Role-based Design
+![[Design Patterns als Role Models#Bridge]]
+
 ## …als Implementation von Facet Classifications
 - Facet (<-> Dimension)
 	- Facets beeinflussen sich nicht gegenseitig, sind unabhängig voneinander

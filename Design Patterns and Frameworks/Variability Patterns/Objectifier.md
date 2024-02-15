@@ -5,3 +5,6 @@ Hierbei wird der Algorithmus **nicht** explizit in mehrere Einzelschritte / _Ein
 ## Beziehungen
 - [[Template Method]]
 - [[Template Class]]
+
+## Role-based Design
+![[Design Patterns als Role Models#Objectifier]]

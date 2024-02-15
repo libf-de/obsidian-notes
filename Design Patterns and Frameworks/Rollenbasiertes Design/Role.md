@@ -10,4 +10,6 @@ Ein *Dienst eines Objekts* im Kontext des Role-based Designs bezieht sich auf ei
 ![[Pasted image 20231130133639.png|400]]
 
 
-
+## Role vs Facet
+- Roles werden zwischenzeitlich gespielt, Facets sind dauerhaft
+- hat eine Facet einen Kollaborationspartner ist sie ein Role Type
