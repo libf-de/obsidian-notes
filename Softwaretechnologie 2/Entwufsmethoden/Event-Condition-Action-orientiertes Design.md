@@ -1,4 +1,5 @@
 => [[Architekturstile#Event-basierter Architekturstil|Event-basierter]], [[Architekturstile#Workflow-basierte Systeme|Workflow-basierter]] oder [[Architekturstile#Communicating State Machines|Communicating State Machines]] Architekturstil
+**immer wenn GUI vorhanden ist**
 
 - Event-Condition-Action-Regeln bestimmen System (auf welches Ereignis unter welchen Bedingungen folgt welche Aktion?)
 

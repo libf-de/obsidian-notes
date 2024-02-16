@@ -22,6 +22,7 @@
 
 ## Adapter
 ![[Pasted image 20240214124851.png]]
+#todo object/class adapter
 [[Adapter|Pattern]]
 
 ## Decorator
