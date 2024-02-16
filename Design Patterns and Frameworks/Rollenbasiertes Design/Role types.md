@@ -1,3 +1,4 @@
+**Role type = Klasse, Role = Instanz/Objekt**
 - ist Service-/Dienst-Typ eines Objekts
 - beschreibt, welche *Art von Funktionen* ein Objekt in einem *bestimmten Kontext* anbietet
 - Objekt spielt/übernimmt Rolle eines Rollen-Typs für gewisse Zeit
@@ -15,3 +16,5 @@ Ein Rollen-Typ ist der Service-/Dienst-Typ eines Objekts und beschreibt, welche 
 ## Founded Types
 - **Founded** = Objekt dieses Typs ist immer in Kollaboration/Assoziation mit anderem Objekt
 - **Non-founded** kann auch alleine stehen
+
+![[Pasted image 20240216104020.png]]
