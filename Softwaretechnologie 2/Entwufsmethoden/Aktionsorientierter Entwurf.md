@@ -2,7 +2,7 @@
 
 **Verwendung** wenn das System ein Zustandssystem ist, in welchem Aktionen die Zustandsübergänge bilden.
 
-**Architekturstile**: [[Architekturstile#Call-Based Architectural Style|Call-Based Arch.]], [[Architekturstile#Datenfluss-Basierter Architekturstil|Datenfluss-basierte Systeme (P&F, Streams)]]
+**Architekturstile**: [[Architekturstile#Call-Based Architectural Style|Call-Based Arch.]], [[Architekturstile#Datenfluss-Basierter Architekturstil|Datenfluss-basierte Systeme (P&F, Streams)]], Interactive processes
 
 **Beispiele**
 - Petrinetze

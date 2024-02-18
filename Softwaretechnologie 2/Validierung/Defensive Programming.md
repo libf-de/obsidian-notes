@@ -18,7 +18,7 @@ post P2: salary = salary@pre + 100 &&
 
 ## Flashcards
 
-Was ist defensives Programmieren? #flashcard #validation 
+Was ist defensives Programmieren? #flashcard #validation #swt2
 - Fehler von Anfang an vermeiden durch Assertions im Code -> Stop bei Fehler
 - Precondition, Invariant und Postcondition Checks => Contract Layer
 - - -

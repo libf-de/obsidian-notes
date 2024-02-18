@@ -1,3 +1,4 @@
+=> [[Architekturstile#Datenfluss-Basierter Architekturstil|Datenfluss-basierte Systeme (P&F, Streams)]], 
 => [[Architekturstile#Event-basierter Architekturstil|Event-basierter]], [[Architekturstile#Workflow-basierte Systeme|Workflow-basierter]] oder [[Architekturstile#Communicating State Machines|Communicating State Machines]] Architekturstil
 **immer wenn GUI vorhanden ist**
 

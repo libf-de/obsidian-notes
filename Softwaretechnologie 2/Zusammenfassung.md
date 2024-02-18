@@ -32,9 +32,9 @@
 - [[Grundlegende Graph-Klassen#Reduzibler Graph|Reduzible Graphen]]
 - Umsetzung mit Graphersetzungssystemen (GRS) oder Logik
 	- [[Graph-Logik-Isomorphismus]]
-	- Same Generation Algorithmus zum Finden von Layern
+	- [[Same-Generation-Algorithmus]] zum Finden von Layern
 		- Umsetzung als Logikprogramm
-		- Umsetzung als Edge-Addition-Rewrite-System -> terminiert, konfluent
+		- Umsetzung als [[Edge-Addition-Rewrite-System]] -> terminiert, konfluent
 - Pfadanalyse, Erreichbarkeitsanalyse
 	- transitive Hülle
 
@@ -42,7 +42,7 @@
 - Entwurfsmethoden geben Architekturstile vor
 - [[Funktionsorientierter Entwurf|Funktionsorientierter Entwurf]] -> [[Architekturstile#Call-Based Architectural Style]]
 - [[Aktionsorientierter Entwurf|Aktionsorientierter Entwurf]] -> **Tom DeMarco SA/SD** -> **DFDs, Data Dictionary**
-- **ECA-orientierter Entwurf** -> **Rule-based Architectural Style**
+- [[Event-Condition-Action-orientiertes Design|ECA-orientierter Entwurf]] -> **Rule-based Architectural Style**
 - [[Datenorientierter Entwurf|Datenorientierter Entwurf]] -> **Repository, Blackboard, ...**
 - **Model-driven Software Development**
 	- [[Meta models|Metamodellierung, Meta-Pyramide]]
